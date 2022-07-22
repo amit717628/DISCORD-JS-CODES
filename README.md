@@ -1,2 +1,14 @@
 # DISCORD-PROFILE-COMMAND
 The best and easy discord js profile command work with discord v13 and v14 
+## HOW TO USE IT ##
+> GO TO LINE NUMBER 17 YOU WILL FIND A LINE if (user.id === '709169539249864775') REPLACE THE ID 709169539249864775 TO YOUR DISCORD ID 
+> DO SAME WITH LINE NUMBER 20
+> REPLACE THE EMOJI WITH YOUR ONE 
+<p> FOR ANY KIND OF HELP VIST SUPPORT <p>
+# https://discord.gg/Z4tKgfgj9Y 
+
+## IMAGE 
+https://cdn.discordapp.com/attachments/823605956348608512/999951266505572472/PROFILE_COMMANDS.PNG
+https://cdn.discordapp.com/attachments/823605956348608512/999951266170019860/no_badge.PNG
+
+<h1> Developed by AAYAN#5243>h1>
