@@ -12,4 +12,4 @@ The best and easy discord js profile command work with discord v13 and v14
 ![no badge](https://user-images.githubusercontent.com/72643921/180396432-1f55659a-e69d-4e43-a63b-c350ec2534d7.PNG)
 
 
-<h1> Developed by AAYAN#5243>h1>
+<h1> Developed by AAYAN#5243 <h1>
