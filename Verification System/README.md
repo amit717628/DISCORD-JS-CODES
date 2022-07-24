@@ -42,15 +42,10 @@ If you find any error or bugs you may join support server or create a issue from
 
 ## Image
 
-Verification Panel 
 ![verify](https://user-images.githubusercontent.com/72643921/180639037-86761b11-3380-47a6-a928-f9f49ec76343.PNG)
 
-
-If user is already verifed
 ![pehlese](https://user-images.githubusercontent.com/72643921/180639059-66720bf4-34c7-474f-8f8c-468961b6368d.PNG)
 
-
-User is getting verifed
 ![done](https://user-images.githubusercontent.com/72643921/180639076-f5ec75e5-e5ab-4848-accf-42b85e3dbcd7.PNG)
 
 
